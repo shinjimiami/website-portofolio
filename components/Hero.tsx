@@ -40,7 +40,7 @@ export default function Hero() {
             View Projects
           </a>
           <a
-            href="https://www.linkedin.com/in/atar-ramadana-dermawan"
+            href="https://www.linkedin.com/in/atharmdh/"
             target="_blank"
             rel="noopener noreferrer"
             className="px-7 py-3 bg-white hover:bg-slate-50 text-slate-700 text-sm font-semibold rounded-xl border border-slate-200 transition-all duration-200 shadow-sm hover:shadow-md flex items-center gap-2"

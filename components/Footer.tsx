@@ -7,7 +7,7 @@ export default function Footer() {
         </p>
         <div className="flex items-center gap-6">
           <a
-            href="https://www.linkedin.com/in/atar-ramadana-dermawan"
+            href="https://www.linkedin.com/in/atharmdh/"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-400 hover:text-white transition-colors"

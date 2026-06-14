@@ -24,7 +24,7 @@ export default function Contact() {
             </div>
 
             <a
-              href="https://www.linkedin.com/in/atar-ramadana-dermawan"
+              href="https://www.linkedin.com/in/atharmdh/"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 w-full justify-center px-7 py-3.5 bg-blue-600 hover:bg-blue-700 text-white text-sm font-semibold rounded-xl transition-all duration-200 shadow-md hover:shadow-blue-200 hover:shadow-lg"
