@@ -36,7 +36,7 @@ export default function Contact() {
             </a>
 
             <p className="mt-4 text-xs text-slate-400">
-              Atar Ramadana Dermawan · Yogyakarta, Indonesia
+              Athar Ramadhana Dermawan · Yogyakarta, Indonesia
             </p>
           </div>
         </div>

@@ -8,13 +8,13 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Atar Ramadana Dermawan — Portfolio",
+  title: "Athar Ramadhana Dermawan — Portfolio",
   description:
-    "Personal portfolio of Atar Ramadana Dermawan — Business Analyst, Founder & CEO of PT Pilar Agrosinergi Nusantara, and Information Systems & Technology student at Institut Teknologi Bandung.",
-  keywords: ["Atar Ramadana Dermawan", "Business Analyst", "Portfolio", "ITB", "Product Management"],
-  authors: [{ name: "Atar Ramadana Dermawan" }],
+    "Personal portfolio of Athar Ramadhana Dermawan — Business Analyst, Founder & CEO of PT Pilar Agrosinergi Nusantara, and Information Systems & Technology student at Institut Teknologi Bandung.",
+  keywords: ["Athar Ramadhana Dermawan", "Business Analyst", "Portfolio", "ITB", "Product Management"],
+  authors: [{ name: "Athar Ramadhana Dermawan" }],
   openGraph: {
-    title: "Atar Ramadana Dermawan — Portfolio",
+    title: "Athar Ramadhana Dermawan — Portfolio",
     description: "Business Analyst · Founder & CEO · Technology Student",
     type: "website",
   },

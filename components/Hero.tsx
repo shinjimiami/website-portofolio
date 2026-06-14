@@ -13,7 +13,7 @@ export default function Hero() {
 
         {/* Name */}
         <h1 className="text-5xl md:text-7xl font-bold text-slate-900 tracking-tight mb-4 leading-tight">
-          Atar Ramadana
+          Athar Ramadhana
           <br />
           <span className="text-teal-500">Dermawan</span>
         </h1>
